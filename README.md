@@ -1,3 +1,3 @@
 # SomeDemo
 
-:squirrel: SomeDemo | 平时写的一些Demo
+:squirrel: SomeDemo | 整理写的一些Demo
